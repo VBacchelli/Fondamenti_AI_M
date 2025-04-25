@@ -1,0 +1,12 @@
+# Ignora il virtual environment
+Lib/
+Scripts/
+Include/
+etc/
+share/
+pyvenv.cfg
+
+# Ignora file temporanei Jupyter
+*.ipynb_checkpoints/
+
+_pycache_/
