@@ -9,4 +9,4 @@ pyvenv.cfg
 # Ignora file temporanei Jupyter
 *.ipynb_checkpoints/
 
-strategieRicerca/_pycache_/
+__pycache__/
