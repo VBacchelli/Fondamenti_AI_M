@@ -8,3 +8,6 @@ Rappresentazione delle relazioni familiari come predicati.
 
   - Il simbolo ⨝ collega i coniugi.
   - Le frecce indicano i figli.
+
+## [One to N](one_to_N.pl)
+Dato in input un numero N, stampa i valori da 1 a N. Contiene due predicati, ```printNToOne``` e ```printOneToN```, che stampano i valori rispettivamente in ordine decrescente e crescente.
